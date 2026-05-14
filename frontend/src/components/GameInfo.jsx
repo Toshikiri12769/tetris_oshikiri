@@ -68,8 +68,8 @@ const GameInfo = ({ score, lines, highscore,gameOver, isPaused, onStart, onPause
                         style={{
                             display: 'inline-block',
                             padding: 12,
-                            backgroundColor: '#111',
-                            border: '1px solid #222',
+                            backgroundColor: '#000',
+                            border: '1px solid #111',
                             borderRadius: 4,
                         }}
                     >
